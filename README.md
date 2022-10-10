@@ -11,4 +11,4 @@ Please see our Open Source project [Documentation Repo](https://github.com/Arcti
 You can find signed binary releases at [Releases](https://github.com/Arctium/Packet-Replay-Server//releases)
 
 ### .NET compatibility:
-* [.NET Core SDK 7.0.0 or later](https://dotnet.microsoft.com/download/dotnet/7.0)
+* [.NET SDK 7.0.0 or later](https://dotnet.microsoft.com/download/dotnet/7.0)
